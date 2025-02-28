@@ -22,11 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
-
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p.descripcion.mb-4 La unidad aborda el presupuesto de producción y ventas como herramienta clave en la planificación financiera empresarial. Se analizan sus elementos, como la gestión de inventarios, el cálculo de costos y la fijación de precios. Además, se exploran estrategias de pronóstico de ventas y control presupuestario para optimizar la toma de decisiones. Se presentan casos prácticos y metodologías de análisis que facilitan la aplicación en entornos organizacionales. Finalmente, se destaca la importancia de integrar estos presupuestos en la planificación estratégica para mejorar la eficiencia operativa y garantizar la sostenibilidad empresarial.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
@@ -74,7 +70,7 @@ export default {
   .home-main-title
     font-size: 18px
     font-weight: bold
-    color: $color-acento-contenido
+    color: $color-primario
   .home-content
     background-color: white
   .info-section
