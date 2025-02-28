@@ -15,20 +15,35 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Fundamentos del Presupuesto de Producción y Ventas',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Concepto y propósito del presupuesto en la gestión empresarial',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Relación entre presupuesto, planeación estratégica y toma de decisiones',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Componentes del presupuesto de producción y ventas',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo:
+              'Importancia del control presupuestario en la eficiencia operativa',
+            hash: 't_1_4',
           },
         ],
       },
