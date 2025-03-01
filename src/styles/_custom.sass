@@ -48,6 +48,8 @@
     background-color: #E6EBF8
   &-16
     background-color: #183164
+  &-17
+    background-color: #FFD0B5
   &-info
     background-color: #E8EEFD
   &-sintesis
@@ -110,6 +112,11 @@
     z-index: 0
   div
     z-index: 1
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
 .bg-h85-2
   position: relative
   &::after
@@ -124,6 +131,11 @@
     z-index: 0
   div
     z-index: 1
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
 .bg-h85-3
   position: relative
   &::after
@@ -138,7 +150,11 @@
     z-index: 0
   div
     z-index: 1
-
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
 .bg-h85-4
   position: relative
   &::after
@@ -153,6 +169,11 @@
     z-index: 0
   div
     z-index: 1
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+  
+    &::after
+      height: 100%
 
 // Variables
 $custom-card-border-radius: 0px
@@ -285,7 +306,7 @@ $custom-card-img-height: 322px
     background-color: $color-primario !important
   .linea-tiempo-d__item__content__slot
     border-radius: 0px 0px 5px 5px
-    background-color: lighten($color-primario, 37%) !important
+    background-color: lighten(#FADFD0, 37%) !important
   .linea-tiempo-d__item__number
     background-color: lighten($color-primario, 30%)
   .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
@@ -294,6 +315,7 @@ $custom-card-img-height: 322px
     border-left: 0px
   .fa-angle-up, .fa-angle-down
     display: block
+
 
 .border-top.color-primario
   border-top: 5px solid $color-primario !important

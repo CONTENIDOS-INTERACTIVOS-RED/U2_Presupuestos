@@ -203,14 +203,14 @@
         p Para determinar la cantidad de cuadernos que se deben producir, se utiliza la siguiente fórmula:
 
         div.bg-h85
-          .row.align-items-center.justify-content-center
+          .row.align-items-center.justify-content-center.p-3.p-lg-0
             .col-lg-3
               figure
                 img(src="@/assets/curso/tema1/13.svg", data-aos="zoom-in")
             .col-lg-9
               p.mb-0 Producción necesaria = Ventas proyectadas + Inventario final deseado – Inventario inicial
         div.bg-color-13
-          .row.align-items-center.justify-content-center
+          .row.align-items-center.justify-content-center.p-3.p-lg-0
             .col-lg-4.order-2
               figure
                 img(src="@/assets/curso/tema1/14.svg", data-aos="zoom-in")
@@ -315,15 +315,16 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-
+              a(href="https://aulasvirtuales.uniquindio.edu.co/RecDigital/Presupu" target="_blank" rel="noopener noreferrer") Universidad del Quindío. (s.f.). Presupuesto de producción. Recuperado de 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://actualicese.com/elaboracion-presupuesto-produccion-conceptos-beneficios" target="_blank" rel="noopener noreferrer") Actualícese. (2022). La elaboración del presupuesto de producción: Conceptos y beneficios.  
+
+            
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=9EaxY1-6xrc" target="_blank" rel="noopener noreferrer") Bravo P. (2019, diciembre 11). Costos y presupuestos. Pascual Bravo Virtual. [Video] YouTube. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
