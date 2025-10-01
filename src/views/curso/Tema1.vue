@@ -315,10 +315,10 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://aulasvirtuales.uniquindio.edu.co/RecDigital/Presupu" target="_blank" rel="noopener noreferrer") Universidad del Quindío. (s.f.). Presupuesto de producción. Recuperado de 
+              a(href="https://aulasvirtuales.uniquindio.edu.co/RecDigital/PresupuestoPrivado_AN/recursos/unidad2/Descargable_U2_EA1.pdf" target="_blank" rel="noopener noreferrer") Universidad del Quindío. (s.f.). Presupuesto de producción. Recuperado de 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://actualicese.com/elaboracion-presupuesto-produccion-conceptos-beneficios" target="_blank" rel="noopener noreferrer") Actualícese. (2022). La elaboración del presupuesto de producción: Conceptos y beneficios.  
+              a(href="https://actualicese.com/archivo/presupuestos-de-produccion-y-su-implicacion-en-la-contabilidad-de-costos/?srsltid=AfmBOorWioy2IYvWiJHh5IsTWWincg3OkhsMqEQAgHbGlKkqfZBEszyj" target="_blank" rel="noopener noreferrer") Actualícese. (2022). La elaboración del presupuesto de producción: Conceptos y beneficios.  
 
             
 

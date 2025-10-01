@@ -257,7 +257,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.studocu.com/co/document/universidad-ces/fundamentos-de-la-contabilidad/resumen-capitulo-1-analisis-presupuestal-de-produccion-y-ventas/40604915" target="_blank" rel="noopener noreferrer") Actualícese. (n.d.). Fundamentos del presupuesto de producción y ventas. 
+              a(href="https://actualicese.com/definicion-y-clasificacion-de-los-presupuestos/?srsltid=AfmBOophjfILsao8pelCpU-osv9rC7QwfzF7la0FQkToM_xeuRKWd3eR" target="_blank" rel="noopener noreferrer") Actualicese. (2024) Presupuestos: así se clasifican y se definen.  [Blog] 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.calameo.com/read/004075243fc618d016584" target="_blank" rel="noopener noreferrer") Zuleta, J. I. (2014). El presupuesto de producción e inventarios: Documento de referencia. Eumed.net. Recuperado de 
