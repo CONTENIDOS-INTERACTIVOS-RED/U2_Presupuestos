@@ -308,7 +308,7 @@
           .div(titulo="Costo total por unidad")
             p $80 (materia prima) + $30 (mano de obra) + $20 (variable indirecto) + $30 (fijo asignado) = $160
     
-          .div(titulo="FMargen de contribución y rentabilidad")
+          .div(titulo="Margen de contribución y rentabilidad")
             p Margen por unidad: $200 - $160 = $40
             p Utilidad total proyectada: 5,000 unidades × $40 = $200,000
     
@@ -351,7 +351,7 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.uv.mx/personal/alsalas/files/2013/02/PRESUPUESTOS-I_II.pdf" target="_blank" rel="noopener noreferrer") Función Pública. (n.d.). Relación entre presupuesto, planeación estratégica y toma de decisiones. 
+              a(href="https://www.funcionpublica.gov.co/documents/34645357/34702994/Metodologia_planeacion_presupuesto_orientado_resultados.pdf/f0b959e6-b00b-858a-daa9-e62e2e9216b9" target="_blank" rel="noopener noreferrer") Función Pública. (n.d.). Relación entre presupuesto, planeación estratégica y toma de decisiones. 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.uv.mx/personal/alsalas/files/2013/02/PRESUPUESTOS-I_II.pdf. " target="_blank" rel="noopener noreferrer") Universidad Veracruzana. (2013). Presupuestos I y II. Recuperado de 
